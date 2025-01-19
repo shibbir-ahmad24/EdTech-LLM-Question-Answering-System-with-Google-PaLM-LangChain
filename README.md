@@ -14,6 +14,16 @@ This project is an end-to-end implementation of a question-answering system usin
 
 **Efficient Vector Search:** Leverages FAISS for vector database creation and retrieval functionalities.
 
+## **Project Structure**
+
+**main.py:** The primary script for running the Streamlit application.
+
+**langchain_helper.py:** Contains the LangChain implementation and related functionalities.
+
+**requirements.txt:** Lists all the dependencies required for the project.
+
+**.env:** Stores the Google API key securely.
+
 ## **Learning Objectives**
 
 This project provides hands-on experience with:
@@ -25,16 +35,6 @@ This project provides hands-on experience with:
 **HuggingFace Embeddings:** For effective text representation using pre-trained models.
 
 **FAISS:** For managing efficient vector databases for retrieval tasks.
-
-## **Project Structure**
-
-**main.py:** The primary script for running the Streamlit application.
-
-**langchain_helper.py:** Contains the LangChain implementation and related functionalities.
-
-**requirements.txt:** Lists all the dependencies required for the project.
-
-**.env:** Stores the Google API key and other configuration details securely.
 
 ## **Impact**
 
