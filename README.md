@@ -36,7 +36,7 @@ This project provides hands-on experience with:
 
 **.env:** Stores the Google API key and other configuration details securely.
 
-# **Impact**
+## **Impact**
 
 **Enhanced Student Support:** Automates responses to FAQs, providing instant, accurate assistance and improving the learning experience.
 
