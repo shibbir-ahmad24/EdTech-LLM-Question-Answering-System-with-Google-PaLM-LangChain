@@ -1,1 +1,1 @@
-# Codebasics-Q-A-Intelligent-Question-Answering-System-with-Google-Palm-LLM-and-LangChain
+# EdTech LLM: Question Answering System with Google PaLM & LangChain
