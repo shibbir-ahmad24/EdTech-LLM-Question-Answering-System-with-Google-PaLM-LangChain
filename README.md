@@ -46,9 +46,7 @@ This project provides hands-on experience with:
 
 **Data-Driven Insights:** Enables analysis of student queries to identify content gaps and improve course offerings.
 
-Credits:
-
-**CodeBasics YouTube Tutorial:** For providing the foundational knowledge and guidance used to develop this project.
+Thanks to CodeBasics YouTube Tutorial For providing the foundational knowledge and guidance used to develop this project.
 
 
 
