@@ -48,7 +48,7 @@ This project provides hands-on experience with:
 
 ## **Output**
 
-[!Output](https://github.com/shibbir-ahmad24/EdTech-LLM-Question-Answering-System-with-Google-PaLM-LangChain/blob/main/Output.png)
+https://github.com/shibbir-ahmad24/EdTech-LLM-Question-Answering-System-with-Google-PaLM-LangChain/blob/main/Output.png
 
 Thanks to CodeBasics YouTube Tutorial For providing the foundational knowledge and guidance used to develop this project.
 
