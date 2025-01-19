@@ -35,3 +35,24 @@ This project provides hands-on experience with:
 **requirements.txt:** Lists all the dependencies required for the project.
 
 **.env:** Stores the Google API key and other configuration details securely.
+
+# **Impact**
+
+**Enhanced Student Support:** Automates responses to FAQs, providing instant, accurate assistance and improving the learning experience.
+
+**Operational Efficiency:** Reduces the workload for support staff, lowering costs while ensuring scalability to handle a growing number of learners.
+
+**Innovative EdTech Solution:** Demonstrates the integration of advanced AI technologies like LangChain and Google PaLM in education.
+
+**Data-Driven Insights:** Enables analysis of student queries to identify content gaps and improve course offerings.
+
+Credits:
+
+**CodeBasics YouTube Tutorial:** For providing the foundational knowledge and guidance used to develop this project.
+
+
+
+
+
+
+
